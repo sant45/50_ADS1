@@ -116,7 +116,7 @@ class list
 		System.out.println(c);
 	}
 }
-public class deque {
+public class Solution {
 public static void main(String[] args)
 {
 	System.out.println("ssd");
